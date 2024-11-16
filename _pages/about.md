@@ -38,6 +38,9 @@ My name is Changhao He (何长浩), and I am currently pursuing an M.S. degree a
 </div>
 </div>
 
+# 🎖 Honors and Awards
+- *2024.11* National Scholarship
+- *2024.10* Outstanding Student of Sichuan University
 
 # 📖 Educations
 - *2023.09 - (now)*, Pursuing M.S. degree at the College of Computer Science, Sichuan University.
