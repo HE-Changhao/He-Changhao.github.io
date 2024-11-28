@@ -28,11 +28,11 @@ My name is Changhao He (何长浩), and I am currently pursuing an M.S. degree a
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2024</div><img src='images/VITAL.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[<em>**ACM MM'24**</em>] [Robust Variational Contrastive Learning for Partially View-unaligned Clustering](https://openreview.net/forum?id=eZpm234cw2)
+[<em>**ACM MM'24**</em>] [Robust Variational Contrastive Learning for Partially View-unaligned Clustering](https://dl.acm.org/doi/abs/10.1145/3664647.3681331)
 
 **Changhao He**, Hongyuan Zhu, Peng Hu, Xi Peng
 
-[**Paper**](https://openreview.net/pdf?id=eZpm234cw2) | [**Code**](https://github.com/He-Changhao/2024-MM-VITAL) ![GitHub stars](https://img.shields.io/github/stars/He-Changhao/2024-MM-VITAL?style=social&label=Stars)
+[**Paper**](https://github.com/He-Changhao/2024-MM-VITAL/blob/main/figs/VITAL.pdf) | [**Code**](https://github.com/He-Changhao/2024-MM-VITAL) ![GitHub stars](https://img.shields.io/github/stars/He-Changhao/2024-MM-VITAL?style=social&label=Stars)
 - Propose a novel Variational Contrastive Learning paradigm to learn view-invariant representation and view-specific one simultaneously.
 - Design a robust inter-view contrastive loss to optimize clean and noisy pairs selectively.
 </div>
