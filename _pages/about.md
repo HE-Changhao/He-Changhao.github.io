@@ -17,7 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My name is Changhao He (何长浩), and I am currently pursuing an M.S. degree at the College of Computer Science at Sichuan University under the supervision of Prof. [Peng Hu](https://penghu-cs.github.io/) (胡鹏). My research interest is Multi-modal Learning.
+I am Changhao He (何长浩), a second-year Master’s student at the College of Computer Science, Sichuan University, supervised by Prof. [Peng Hu](https://penghu-cs.github.io/) (胡鹏). Starting this year, I will continue as a Ph.D. student under his guidance. My research focuses on Multi-modal Learning and Noisy Correspondence.
+
+Our group maintains the [Awesome Noisy Correspondence repository](https://github.com/QinYang79/Awesome-Noisy-Correspondence), a resource hub for research in noisy correspondence. If you have any suggestions or ideas, we warmly invite you to get in touch with us.
 
 
 # 🔥 News
